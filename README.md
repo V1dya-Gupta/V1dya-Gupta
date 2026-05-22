@@ -1,27 +1,66 @@
-Hi there, I'm Vidya! 👋
+# Hi, I'm Vidya Gupta 👋✨
 
-Welcome to my GitHub profile!
+## 🚀 About Me
+I am an aspiring Data Analyst currently working as an MIS Executive with hands-on experience in Excel reporting, dashboard creation, FMCG campaign analysis, and business reporting.
 
-I work as an MIS Executive and I’m passionate about using data to understand business performance and improve decision-making. I enjoy working with real-world datasets, building dashboards, and finding insights that can help teams perform better.
+I enjoy transforming raw data into meaningful insights through data visualization and analytics. Currently, I am building projects using Excel, SQL, and Power BI while continuously improving my analytical and business intelligence skills.
 
-With hands-on experience in Excel, SQL, and campaign data analysis, I aim to grow into a Data Analyst role in product, fintech, or e-commerce companies.
+---
 
-About Me
+## 🎯 Current Focus
+- 📊 Data Analytics
+- 📈 Power BI Dashboards
+- 🗄️ SQL Learning
+- 📑 Business Reporting
+- 🛒 FMCG Campaign Analysis
+- 📉 Data Visualization
 
-💼 MIS Executive (Marketing & Campaign Data)
-📊 Aspiring Data Analyst
-🌱 Currently learning Advanced SQL, Statistics, and Power BI
-🎯 Interested in business insights, dashboards, and performance analysis
+---
 
-Tools & Skills
-Excel (Pivot Tables, Dashboards, Data Cleaning, KPI Tracking)
-SQL (Joins, Aggregations, Basic Analysis)
-Data Analysis & Reporting
-Campaign Performance Tracking
+## 🛠️ Skills
 
-Let’s Connect!
+### 📌 Data Analytics
+- Microsoft Excel
+- Power BI
+- SQL
+- Power Query
+- Pivot Tables
+- DAX
+- Data Cleaning
+- Data Visualization
 
-LinkedIn: (https://www.linkedin.com/in/vidyagupta08/)
-Email: vidyagupta9334@gmail.com
+### 📌 Business & Reporting
+- KPI Tracking
+- Dashboard Creation
+- Business Insights
+- Campaign Performance Analysis
+- FMCG Reporting
 
-Feel free to explore my projects and connect with me 😊
+---
+
+## 📚 Currently Learning
+- Advanced SQL
+- Statistics for Data Analytics
+- Python for Data Analysis
+- Advanced Power BI
+- Business Analytics
+
+---
+
+## 💡 Career Goal
+To build a strong career in Data Analytics and Business Intelligence by solving real-world business problems using data.
+
+---
+
+## 🌐 Connect With Me
+
+🐙 GitHub:  
+https://github.com/V1dya-Gupta
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/vidyagupta08/
+
+
+---
+
+⭐ Thank you for visiting my profile!
